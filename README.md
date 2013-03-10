@@ -1,4 +1,4 @@
-express-handlesbars-starter
-===========================
+express-with-handlebars-starter
+===============================
 
-Node.js starter project for Express 3 using handlebars
+Starter project for express 3 and handlebars
